@@ -1,0 +1,7 @@
+config.h
+*.csv
+*.json
+__pycache__/
+venv/
+.env
+.vscode/
